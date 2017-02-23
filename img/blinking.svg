@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="59px" viewBox="0 0 111 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>blinking</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AFA58F" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="158.189179%" id="linearGradient-2">
+            <stop stop-color="#756D5E" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.293534873">
+        <g id="Artboard" transform="translate(-18.000000, -18.000000)" fill-rule="nonzero" fill="url(#linearGradient-2)">
+            <g id="blinking" transform="translate(18.000000, 18.000000)">
+                <g id="48823717-BF90-4CD9-BF2B-29D1EDD48AE9">
+                    <g id="Page-1">
+                        <g id="Desktop-HD-Copy-8">
+                            <g id="Group-11">
+                                <g id="Group-71-Copy">
+                                    <g id="Group-76">
+                                        <polygon id="Path-143" points="15.798277 1.011424 0 59.000927 110.643737 58.866022 92.458145 0"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

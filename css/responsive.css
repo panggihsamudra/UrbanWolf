@@ -1,0 +1,294 @@
+@media only screen and (min-width:995px) and (max-width: 1200px){
+	nav img{
+		width: 180px;
+		margin-top: 32px;
+	}
+
+
+	.bgheader{
+		background-image: url(../img/bg-top.svg);
+	  background-size: 100%;
+		width: 604px;
+		height: 715px;
+		float: right;
+		position: absolute;
+		right: 0;
+		top: 130px;
+		background-repeat: no-repeat;
+	}
+
+
+	.img-office{
+	background-image: url(../img/illustrasi-1.svg);
+	width: 604px;
+	height: 515px;
+	background-repeat: no-repeat;
+	position: relative;
+	top: 200px;
+	right: 40px;
+  	background-size: 78%;
+	}
+
+	header{
+		height: 650px;
+	}
+
+	.illustration-4-1{
+		background-size: 60%;
+		bottom: 220px;
+		left: 160px;
+	}
+
+	.illustration-4-2{
+		background-size: 100%;
+		height: 272px;
+	}
+	.founder{
+		height: 750px;
+	}
+
+	.img-founder{
+		background-size: 100%;
+		background-repeat: no-repeat;
+	width: 623px !important; 
+	height: 656px !important;
+	}
+
+	.founder h2{
+		margin-top: 250px;
+	}
+
+	.consulting{
+		height: 492px;
+	}
+
+	.illustration-4-1{
+		left: 104px;
+		bottom: 262px;
+	}
+
+
+	.illustration-4-2{
+		width: 500px;
+		top: 220px;
+		right: 40px;
+	}
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width: 995px){
+
+
+	header{
+		height: 460px;
+	}
+
+	nav img{
+		width: 200px;
+		margin-top: 28px;
+	}
+
+	header h2{
+		font-size: 18px;
+		width: 60%;
+		margin-top: 90px;
+	}
+	header p{
+		font-size: 14px;
+		width: 50%;
+	}
+
+	.bgheader{
+		background-image: url(../img/bg-top.svg);
+	  background-size: 130%;
+		width: 524px;
+		height: 455px;
+		float: right;
+		position: absolute;
+		right: 0;
+		top: 130px;
+		background-repeat: no-repeat;
+
+	}
+
+
+
+
+	.img-office{
+	background-image: url(../img/illustrasi-1.svg);
+	width: 474px;
+	height: 315px;
+	background-repeat: no-repeat;
+	position: relative;
+	top: 200px;
+	left: 50px;
+  	background-size: 78%;
+	}	
+
+	header a.btn-urban{
+		font-size: 13px;
+	}
+
+	header{
+		height: 550px;
+	}
+
+	.title-services h2{
+		font-size: 18px;
+	}
+
+	.services h3{
+		margin-top: 150px;
+	}
+
+
+	.illustration-2-top{
+		background-size: 100%;
+	}
+
+	.illustration-2-bottom-1{
+		background-size: 100%;
+		width: 210px;
+		top: 240px;
+		height: 200px;
+	}
+
+	.illustration-2-bottom-2{
+		background-image: url(../img/illustrasi-2-bottom-2.svg);
+	background-repeat: no-repeat;
+		position: absolute;
+	width: 100%;
+	height: 256px;
+	bottom: 0;
+	top: 325px	;
+	left: 340px;
+	right: 0px;
+	background-size: 13%;
+}
+
+.illustration-2-bottom-3{
+		background-image: url(../img/illustrasi-2-bottom-3.svg);
+	background-repeat: no-repeat;
+		position: absolute;
+	width: 100%;
+	height: 256px;
+	top: 344px;
+	left: 0;
+	right: 0;
+	background-size: 10%;
+}
+
+	.services{
+		width: 100%;
+	  height: 440px;
+	}
+
+	.consulting{
+		height: 650px;
+	}
+
+
+	.illustration-management{
+		width: 100%;
+		background-size: 100%;
+		position: relative;
+		top: 50px;
+	}
+
+
+	.consulting h3{
+		line-height: 2;
+	}
+
+
+	.illustration-4{
+		position: relative;
+		top: 192px;
+		right: 80px;
+	}
+
+	.illustration-4-2{
+		width: 470px;
+	}
+
+	.illustration-4-1{
+		width: 500px;
+		left: 160px;
+	}
+
+
+	.clients h2{
+		font-size: 18px;
+	}
+
+	.founder h2{
+		font-size: 18px;
+	}
+
+	.founder h3{
+		font-size: 14px;
+	}
+
+	.founder{
+		height: 720px;
+	}
+
+	.img-founder{
+		width: 500px;
+		height: 540px;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		top: 100px;
+	}
+
+
+	.form h2{
+		font-size: 18px;
+		margin-top: 120px;
+	}
+
+	.founder h2{
+		margin-top: 180px;
+	}
+
+	form{
+		width: 50%;
+	}
+
+	input[type="submit"]{
+		width: 60%;
+		font-size: 14px;
+	}
+
+	footer img{
+		width: 200px;
+		position: relative;
+		top: 6px;
+	}
+
+	footer h4{
+		font-size: 12px;
+	}
+
+	footer h2{
+		font-size: 18px;
+		margin-top: 96px;
+	}
+
+}
+
+
+@media only screen and (min-width: 300px) and (max-width: 768px){
+
+	nav ul li {
+    display: block;
+    float: left;
+    margin-left: 66px;
+    margin-top: 16px;
+    margin-bottom: -17px;
+	}
+    .navbar-toggle {
+    margin-right: 3px;
+
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="804px" height="715px" viewBox="0 0 804 715" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>886EFB3A-AE06-4CF6-8D9F-0E83EB8B8D38</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="423.532049 1.08175984 805.386071 0.304737957 805.386071 714.030732 0.153115779 714.543471"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-8" transform="translate(-636.000000, -120.000000)">
+            <g id="Group-11" transform="translate(607.000000, 120.000000)">
+                <g id="Group-50" transform="translate(29.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-53-Copy" fill="#F7F7F7" xlink:href="#path-1"></use>
+                    <polygon id="Path-155" fill="#ECE9E9" mask="url(#mask-2)" points="805.630098 498.989002 -39.0574463 411 -296 737.63704 803.821183 737.63704"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
